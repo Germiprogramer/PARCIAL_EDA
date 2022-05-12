@@ -1,6 +1,10 @@
 import matplotlib.pyplot as plt
 import pandas as pd
 
+#pie = sectores
+#bar = barras
+#hist = histograma
+
 def grafico(dataset, tipo_grafico, titulografico, nombregrafico):
     fig, ax = plt.subplots()
  
