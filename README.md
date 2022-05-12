@@ -1,5 +1,7 @@
 # PARCIAL_EDA
 
+el link al repositio es el siguiente : https://github.com/Germiprogramer/PARCIAL_EDA.git
+
 # Cuántas visitas recibe en el día el cliente y de estas,   cuántas de ellas convierten y cuántas no (en %)
 
 Para responder a esta pregunta, se ha calculado el numero de navegaciones y el numero de conversiones. Diviendo el numero de conversiones entre el de navegaciones, podemos hallar el porcentaje de conversiones.
