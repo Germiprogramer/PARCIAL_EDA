@@ -19,6 +19,15 @@ user_recurrent = navegacion["user_recurrent"]
 gclid = navegacion["gclid"]
 url_landing = navegacion["url_landing"]
 
+#SEPARACION URL
+
+list = list(navegacion["url_landing"])
+
+for i in range(len(list)): 
+    list[i].split("gclid")
+
+    #no me ha dado tiempo a acabarla
+
 #EJERCICIO 1
 
 print("Conversiones que recibe al día el cliente: ")
